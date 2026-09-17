@@ -15,9 +15,10 @@ html{
         width: 60%;
         margin: 0 auto;
         max-width: 600px;
-        min-width: 400px;
-        background-color: #ffffff;
+        min-width: 500px;
+        background-color: #ffffff; /* #141414 */
     }
+
     img {
         width: 80%;
         height: auto;
@@ -34,7 +35,7 @@ html{
         font-size: 50px;
     }
 
-    h2{
+    h2 {
         font-size: 40px;
     }
 
@@ -43,4 +44,23 @@ html{
         font-size: large;
     }
     
+}
+
+.wrapper {
+    margin: 20% auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper img {
+    width: 50%;
+}
+
+button {
+    width: 100%;
+    padding: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 0px;
 }
