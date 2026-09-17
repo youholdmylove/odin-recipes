@@ -16,9 +16,10 @@ html{
         margin: 0 auto;
         max-width: 600px;
         min-width: 400px;
+        background-color: #ffffff;
     }
     img {
-        width: 60%;
+        width: 80%;
         height: auto;
         max-width: 600px;
         margin: 0 auto;
@@ -26,6 +27,7 @@ html{
 
     h1, h2 {
         font-family: "Parisienne";
+        border: 2px;
     }
 
     h1 {
